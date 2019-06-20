@@ -10,7 +10,7 @@ apt update && apt -y upgrade
 
 #Install desktop env
 
-apt install -y cinnamon-desktop-environment lightdm htop atop iotop byobu zsh git wget curl 
+apt install -y cinnamon-desktop-environment lightdm htop atop iotop byobu zsh git wget curl terminator
 
 #Change shell
 
